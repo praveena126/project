@@ -12,6 +12,6 @@ c=a-b
 void multiplication()
 {
 }
-void div()
+void div1()
 {
 }
